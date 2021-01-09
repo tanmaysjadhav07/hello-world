@@ -1,2 +1,2 @@
 # hello-world
-trait to understand how GitHub works
+Trial to understand how GitHub works
